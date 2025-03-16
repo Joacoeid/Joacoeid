@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Joacoeid
-- 🌱 I’m currently learning C++ and Python! It's my first year of Uni :)
+- 🏫 First year student as a CS and Math Major
+- 🌱 I’m currently learning C++ and Python! 
 - 💞️ I’m looking to collaborate on fun games
 - 📫 How to reach me joaquin.eid.mier@gmail.com
 - ⚡ Fun fact: A chicken once lived 18 months without a head
