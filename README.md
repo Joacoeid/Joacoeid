@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joacoeid
 - 🏫 Second year student as a CS and Math Major
-- 🌱 I’m currently learning C++, C, Java and Python! 
+- 🌱 I’m currently learning C++, C, Java, OCaml and Python! 
 - 📫 How to reach me joaquin.eid.mier@gmail.com
 
 <!---
